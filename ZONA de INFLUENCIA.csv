@@ -1,82 +1,63 @@
-N_MES;MES;FECHA;NV;NOMBRE CLIENTE;VENDEDORA;TIPO;Linea;Modalidad;M2;MONTO (Neto);LocalizaciÛn;Region ;Vive en ;Uso;ProfesiÛn;VIVEN EN AGRUPADO;TIPO AGRUPADO;;
-1;ENERO;18-01-2021;3341759; PATRICIO DIONISIO HUINCA ;MarÌa JosÈ Cid;DVC;Arbolito;Full construido;120;$40.831.375;Caburga;Region de la Araucania;Temuco;Vivienda Definitiva;PYME;Temuco;Cl·sica;;
+N_MES;MES;FECHA;NV;NOMBRE CLIENTE;VENDEDORA;TIPO;Linea;Modalidad;M2;MONTO (Neto);Localizaci√≥n;Region ;Vive en ;Uso;Profesi√≥n;VIVEN EN AGRUPADO;TIPO AGRUPADO;;
+1;ENERO;18-01-2021;3341759; PATRICIO DIONISIO HUINCA ;Mar√≠a Jos√© Cid;DVC;Arbolito;Full construido;120;$40.831.375;Caburga;Region de la Araucania;Temuco;Vivienda Definitiva;PYME;Temuco;Cl√°sica;;
 1;ENERO;21-01-2021;3341769; JAVIER ANTONIO TAPIA  ;Yennifer Gonzalez;Futura;Arbolito;Full construido;80;$28.117.797;Isla de Maipo;Region Metropolitana;Isla de Maipo;Vivienda Definitiva;Empleados;Santiago;Mediterranea;;Barrio Alto
-1;ENERO;22-01-2021;3341779;LUIS FERNANDEZ MURILLO;Barbara EspaÒa;DVC;Arbolito;Full construido;91;$31.040.719;Casablanca;Region de Valparaiso;Casablanca;Para Empleados;Empresarios;Quinta RegiÛn;Cl·sica;;Colina
-1;ENERO;23-01-2021;3341781;HECTOR GARCIA;MarÌa JosÈ Cid;Proyectos Especiales;Arbolito;Obra gruesa;159;$21.008.403;Temuco;Region de la Araucania;Temuco;Vivienda Definitiva;Empresarios;Temuco;Mediterranea;;Las Condes
+1;ENERO;22-01-2021;3341779;LUIS FERNANDEZ MURILLO;Barbara Espa√±a;DVC;Arbolito;Full construido;91;$31.040.719;Casablanca;Region de Valparaiso;Casablanca;Para Empleados;Empresarios;Quinta Regi√≥n;Cl√°sica;;Colina
+1;ENERO;23-01-2021;3341781;HECTOR GARCIA;Mar√≠a Jos√© Cid;Proyectos Especiales;Arbolito;Obra gruesa;159;$21.008.403;Temuco;Region de la Araucania;Temuco;Vivienda Definitiva;Empresarios;Temuco;Mediterranea;;Las Condes
 1;ENERO;29-01-2021;3341797;ALEX GONZALEZ;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;63;$35.374.727;Paine;Region Metropolitana;Santiago;Veraneo;Gerente;Santiago;Mediterranea;;Vitacura
-1;ENERO;29-01-2021;3341798;REN… CISTERNAS;Carolina Aguirre;Futura;Arbolito;Llave en mano;85;$48.730.918;Zapallar;Region de Valparaiso;Colina;Veraneo;Supervisor;Barrio Alto;Mediterranea;;Providencia
-1;ENERO;30-01-2021;3341807;MACARENA FUENTES;Susana Bello;Futura;Arbolito;Full construido;117;$39.079.294;CuracavÌ;Region Metropolitana;Huechuraba;Vivienda Definitiva;PYME;Barrio Alto;Mediterranea;;Huechuraba
-2;FEBRERO;19-02-2021;3341848;CRISTIAN ENRIQUE VERA RODRIGUEZ;Yohana Manquel;DVC;Arbolito;Full construido;67;$22.689.076;Villarrica;Region de la Araucania;Maipu;Veraneo;Gerente;Santiago;Cl·sica;;Lo Barnechea
-2;FEBRERO;23-02-2021;3341850;MARCELA JACQUELINE HERMOSILLA;MarÌa JosÈ Cid;DVC;Arbolito;Full construido;109;$33.638.656;Villarrica;Region de la Araucania;Quinta Normal;Veraneo + Vivienda Definitiva;Empleados;Santiago;Cl·sica;;
+1;ENERO;29-01-2021;3341798;REN√â CISTERNAS;Carolina Aguirre;Futura;Arbolito;Llave en mano;85;$48.730.918;Zapallar;Region de Valparaiso;Colina;Veraneo;Supervisor;Barrio Alto;Mediterranea;;Providencia
+1;ENERO;30-01-2021;3341807;MACARENA FUENTES;Susana Bello;Futura;Arbolito;Full construido;117;$39.079.294;Curacav√≠;Region Metropolitana;Huechuraba;Vivienda Definitiva;PYME;Barrio Alto;Mediterranea;;Huechuraba
+2;FEBRERO;19-02-2021;3341848;CRISTIAN ENRIQUE VERA RODRIGUEZ;Yohana Manquel;DVC;Arbolito;Full construido;67;$22.689.076;Villarrica;Region de la Araucania;Maipu;Veraneo;Gerente;Santiago;Cl√°sica;;Lo Barnechea
+2;FEBRERO;23-02-2021;3341850;MARCELA JACQUELINE HERMOSILLA;Mar√≠a Jos√© Cid;DVC;Arbolito;Full construido;109;$33.638.656;Villarrica;Region de la Araucania;Quinta Normal;Veraneo + Vivienda Definitiva;Empleados;Santiago;Cl√°sica;;
 2;FEBRERO;25-02-2021;3341863;ROSITA AGUIRRE;Yennifer Gonzalez;Futura;Arbolito+;Full construido;80;$38.173.809;Lo Barnechea;Region Metropolitana;Lo Barnechea;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
 2;FEBRERO;26-02-2021;3341871;SUSAN ROJAS;Emmanuel Umbria;Futura;Arbolito;Full construido;108,65;$36.974.790;Vichuquen ;Region del Maule; ;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
-3;MARZO;03-03-2021;3341884;RAMIRO ESPINOZA;MarÌa JosÈ Cid;DVC;Arbolito;Full construido;132;$47.898.977;Villarrica;Region de la Araucania;Villarrica;Vivienda Definitiva;Empresarios;Villarrica;Cl·sica;;
-3;MARZO;15-03-2021;3341911;LATITUD SUR SPA;Susana Bello;DVC;Arbolito;Full construido;111;46.052.815;Frutillar;Region de los Lagos;Frutillar;Negocio;Empresarios;Frutillar;Cl·sica;;
-3;MARZO;15-03-2021;3341913;MANUEL ARAVENA;Yennifer Gonzalez;Futura;Arbolito;Full construido;110;39.635.027;Limache;Region de Valparaiso;Limache;Vivienda Definitiva;Docente Universitario;Quinta RegiÛn;Mediterranea;;
-3;MARZO;23-03-2021;3341938;PEDRO FLORES;Yennifer Gonzalez;DVC;Arbolito;Full construido;135;49.209.825;Frutillar;Region de los Lagos;Antofagasta;Vivienda Definitiva;Mineria ;Antofagasta;Cl·sica;;
+3;MARZO;03-03-2021;3341884;RAMIRO ESPINOZA;Mar√≠a Jos√© Cid;DVC;Arbolito;Full construido;132;$47.898.977;Villarrica;Region de la Araucania;Villarrica;Vivienda Definitiva;Empresarios;Villarrica;Cl√°sica;;
+3;MARZO;15-03-2021;3341911;LATITUD SUR SPA;Susana Bello;DVC;Arbolito;Full construido;111;46.052.815;Frutillar;Region de los Lagos;Frutillar;Negocio;Empresarios;Frutillar;Cl√°sica;;
+3;MARZO;15-03-2021;3341913;MANUEL ARAVENA;Yennifer Gonzalez;Futura;Arbolito;Full construido;110;39.635.027;Limache;Region de Valparaiso;Limache;Vivienda Definitiva;Docente Universitario;Quinta Regi√≥n;Mediterranea;;
+3;MARZO;23-03-2021;3341938;PEDRO FLORES;Yennifer Gonzalez;DVC;Arbolito;Full construido;135;49.209.825;Frutillar;Region de los Lagos;Antofagasta;Vivienda Definitiva;Mineria ;Antofagasta;Cl√°sica;;
 3;MARZO;30-03-2021;3341963;FRANCISCO OLIVARES;Emmanuel Umbria;Infinity;Arbolito;Full construido;103;$40.710.980;Los Angeles;Region del Bio-Bio;Santiago;Veraneo + Vivienda Definitiva;Empresarios;Santiago;Mediterranea;;
-3;MARZO;17-03-2021;3341929;RICARDO ANDRES MORENO;Yohana Manquel;DVC;Arbolito;Full;157;$35.089.450;Licanray;Region de la Araucania;ConcepciÛn;Veraneo + Vivienda Definitiva;Empresarios;ConcepciÛn;Cl·sica;;
-4;ABRIL;08-04-2021;3341979;LUIS HERNANDEZ;Barbara EspaÒa;DVC;Arbolito;Full construido;87;$32.794.370;Caburga;Region de la Araucania;—uÒoa;Veraneo;Supervisor;Santiago;Cl·sica;;
-4;ABRIL;08-04-2021;3341977;MARIA CECILIA SOTO GARCIA;Susana Bello;DVC;Arbolito;Llave en mano;87;$51.163.588;Isla Negra;Region de Valparaiso;Huechuraba;Veraneo;Empresarios;Barrio Alto;Cl·sica;;
-4;ABRIL;16-04-2021;3341989;RICARDO ANDRE VELIZ MORAGA;Susana Bello;DVC;Arbolito;Obra gruesa;132;$15.359.845;Casablanca;Region de Valparaiso;Casablanca;Vivienda Definitiva;Empresarios;Quinta RegiÛn;Cl·sica;;
+3;MARZO;17-03-2021;3341929;RICARDO ANDRES MORENO;Yohana Manquel;DVC;Arbolito;Full;157;$35.089.450;Licanray;Region de la Araucania;Concepci√≥n;Veraneo + Vivienda Definitiva;Empresarios;Concepci√≥n;Cl√°sica;;
+4;ABRIL;08-04-2021;3341979;LUIS HERNANDEZ;Barbara Espa√±a;DVC;Arbolito;Full construido;87;$32.794.370;Caburga;Region de la Araucania;√ëu√±oa;Veraneo;Supervisor;Santiago;Cl√°sica;;
+4;ABRIL;08-04-2021;3341977;MARIA CECILIA SOTO GARCIA;Susana Bello;DVC;Arbolito;Llave en mano;87;$51.163.588;Isla Negra;Region de Valparaiso;Huechuraba;Veraneo;Empresarios;Barrio Alto;Cl√°sica;;
+4;ABRIL;16-04-2021;3341989;RICARDO ANDRE VELIZ MORAGA;Susana Bello;DVC;Arbolito;Obra gruesa;132;$15.359.845;Casablanca;Region de Valparaiso;Casablanca;Vivienda Definitiva;Empresarios;Quinta Regi√≥n;Cl√°sica;;
 4;ABRIL;16-04-2021;3341991;CONSTRUCTORA INTERHAUSE LTDA;Susana Bello;Infinity;Arbolito;Full construido;80;$29.411.062;Colina;Region Metropolitana;Colina;Negocio;Empresarios;Barrio Alto;Mediterranea;;
-4;ABRIL;19-04-2021;3341998;HILIA DEL TRANSITO STOBER;Yennifer Gonzalez;Futura;Arbolito;Full construido;105;$39.515.893;Casablanca;Region de Valparaiso;Talcahuano;Veraneo;PYME;ConcepciÛn;Mediterranea;;
-4;ABRIL;20-04-2021;3341995;NICOLAS DANIEL ROJAS NAVARRO;MarÌa JosÈ Cid;DVC;Arbolito;Full construido;77;$29.473.013;Villarrica;Region de la Araucania;La Reina;Vivienda Definitiva;Profesional Independiente;Santiago;Cl·sica;;
-4;ABRIL;22-04-2021;3342004;VIRGINIA ELENA RAWICZ PELLICER;Yennifer Gonzalez;Loft;Arbolito;Llave en mano;110;$87.523.384;CajÛn del Maipo;Region Metropolitana;Las Condes;Vivienda Definitiva;Docente Universitario;Barrio Alto;Mediterranea;;
+4;ABRIL;19-04-2021;3341998;HILIA DEL TRANSITO STOBER;Yennifer Gonzalez;Futura;Arbolito;Full construido;105;$39.515.893;Casablanca;Region de Valparaiso;Talcahuano;Veraneo;PYME;Concepci√≥n;Mediterranea;;
+4;ABRIL;20-04-2021;3341995;NICOLAS DANIEL ROJAS NAVARRO;Mar√≠a Jos√© Cid;DVC;Arbolito;Full construido;77;$29.473.013;Villarrica;Region de la Araucania;La Reina;Vivienda Definitiva;Profesional Independiente;Santiago;Cl√°sica;;
+4;ABRIL;22-04-2021;3342004;VIRGINIA ELENA RAWICZ PELLICER;Yennifer Gonzalez;Loft;Arbolito;Llave en mano;110;$87.523.384;Caj√≥n del Maipo;Region Metropolitana;Las Condes;Vivienda Definitiva;Docente Universitario;Barrio Alto;Mediterranea;;
 4;ABRIL;21-04-2021;3342000;ALLYN JAQUELINE BERETA SAAVEDRA;Yohana Manquel;Loft;Arbolito;Full;44;$9.905.387;Temuco;Region de la Araucania;Temuco;Vivienda Definitiva;Empleados;Temuco;Mediterranea;;
-5;MAYO;03-05-2021;3342013;MARIO ABASCAL;Barbara EspaÒa;DVC;Arbolito;Llave en mano;91;$59.425.034;CajÛn del Maipo;Region Metropolitana;Las Condes;Veraneo ;Gerente;Barrio Alto;Cl·sica;;
-5;MAYO;06-05-2021;3342014;CLAUDIA REBECA ALIAGA FERNANDEZ;Barbara EspaÒa;DVC;Arbolito;Llave en mano;91;$51.090.022;CuracavÌ;Region Metropolitana;Las Condes;Veraneo + Vivienda Definitiva;Profesional Independiente;Barrio Alto;Cl·sica;;
-5;MAYO;07-05-2021;3342016;NORY CRISTINA SCHIMIDT;MarÌa JosÈ Cid;Proyectos Especiales;Arbolito;Llave en mano;45;$25.910.788;Pucon ;Region de la Araucania;Las Condes;Veraneo;Empresarios;Barrio Alto;Cl·sica;;
-5;MAYO;07-05-2021;3342018;NORY CRISTINA SCHIMIDT;MarÌa JosÈ Cid;DVC;Arbolito;Llave en mano;67;$38.608.343;Pucon ;Region de la Araucania;Las Condes;Veraneo;Empresarios;Barrio Alto;Cl·sica;;
+5;MAYO;03-05-2021;3342013;MARIO ABASCAL;Barbara Espa√±a;DVC;Arbolito;Llave en mano;91;$59.425.034;Caj√≥n del Maipo;Region Metropolitana;Las Condes;Veraneo ;Gerente;Barrio Alto;Cl√°sica;;
+5;MAYO;06-05-2021;3342014;CLAUDIA REBECA ALIAGA FERNANDEZ;Barbara Espa√±a;DVC;Arbolito;Llave en mano;91;$51.090.022;Curacav√≠;Region Metropolitana;Las Condes;Veraneo + Vivienda Definitiva;Profesional Independiente;Barrio Alto;Cl√°sica;;
+5;MAYO;07-05-2021;3342016;NORY CRISTINA SCHIMIDT;Mar√≠a Jos√© Cid;Proyectos Especiales;Arbolito;Llave en mano;45;$25.910.788;Pucon ;Region de la Araucania;Las Condes;Veraneo;Empresarios;Barrio Alto;Cl√°sica;;
+5;MAYO;07-05-2021;3342018;NORY CRISTINA SCHIMIDT;Mar√≠a Jos√© Cid;DVC;Arbolito;Llave en mano;67;$38.608.343;Pucon ;Region de la Araucania;Las Condes;Veraneo;Empresarios;Barrio Alto;Cl√°sica;;
 5;MAYO;07-05-2021;3342020;JUAN FRANCISCO ROBLES;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;105;$64.771.925;Colina;Region Metropolitana;Providencia;Vivienda Definitiva;Docente Universitario;Barrio Alto;Mediterranea;;
-5;MAYO;07-05-2021;3342021;PAULA MELLADO;Barbara EspaÒa;Loft;Arbolito;Llave en mano;38;$23.379.952;Tunquen;Region de Valparaiso;Vitacura;Veraneo;Docente Universitario;Barrio Alto;Mediterranea;;
-5;MAYO;11-05-2021;3342023;RODRIGO PALMA;Yennifer Gonzalez;Infinity;Arbolito;Full;164;$41.744.319;Paine;Region Metropolitana;Valparaiso;Veraneo;Mineria ;Quinta RegiÛn;Mediterranea;;
-5;MAYO;28-05-2021;3342044;ASESORÕAS Y SERVICIOS JURÕDICOS TAVOLARI Y HOLZHAUER LTDA;Susana Bello;Infinity;Arbolito+;Llave en mano;164;$116.319.939;Pucon ;Region de la Araucania;Las Condes;Veraneo ;Profesional Independiente;Barrio Alto;Mediterranea;;
+5;MAYO;07-05-2021;3342021;PAULA MELLADO;Barbara Espa√±a;Loft;Arbolito;Llave en mano;38;$23.379.952;Tunquen;Region de Valparaiso;Vitacura;Veraneo;Docente Universitario;Barrio Alto;Mediterranea;;
+5;MAYO;11-05-2021;3342023;RODRIGO PALMA;Yennifer Gonzalez;Infinity;Arbolito;Full;164;$41.744.319;Paine;Region Metropolitana;Valparaiso;Veraneo;Mineria ;Quinta Regi√≥n;Mediterranea;;
+5;MAYO;28-05-2021;3342044;ASESOR√çAS Y SERVICIOS JUR√çDICOS TAVOLARI Y HOLZHAUER LTDA;Susana Bello;Infinity;Arbolito+;Llave en mano;164;$116.319.939;Pucon ;Region de la Araucania;Las Condes;Veraneo ;Profesional Independiente;Barrio Alto;Mediterranea;;
 5;MAYO;31-05-2021;3342047;SOLO VERDE & ECO VERDE SA;Emmanuel Umbria;Proyectos Especiales;Arbolito;Llave en mano;66,5;$88.330.942;Malloco;Region Metropolitana;La Florida;Vivienda Definitiva;Empresarios;Santiago;Mediterranea;;
-6;JUNIO;01-06-2021;3342046;MARIA VIRGINIA NEUBER ALMENDRAS;Yohana Manquel;DVC;Arbolito;Full construido;132;$49.472.695;Villarrica;Region de la Araucania;Temuco;Vivienda Definitiva;Empleados;Temuco;Cl·sica;;
-6;JUNIO;07-06-2021;3342051;JAIME THURNER;Barbara EspaÒa;Proyectos Especiales;Arbolito;Llave en mano;180;$120.221.451;Santo Domingo;Region de Valparaiso;Las Condes;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
-6;JUNIO;09-06-2021;3342060;RICARDO ALBERTO BENAVENTE CREST¡;Leonor Gonzalez;Infinity;Arbolito;Llave en mano;83;$49.517.511;Santo Domingo;Region de Valparaiso;Las Condes;Primera Vivienda;Empresarios;Barrio Alto;Mediterranea;;
+6;JUNIO;01-06-2021;3342046;MARIA VIRGINIA NEUBER ALMENDRAS;Yohana Manquel;DVC;Arbolito;Full construido;132;$49.472.695;Villarrica;Region de la Araucania;Temuco;Vivienda Definitiva;Empleados;Temuco;Cl√°sica;;
+6;JUNIO;07-06-2021;3342051;JAIME THURNER;Barbara Espa√±a;Proyectos Especiales;Arbolito;Llave en mano;180;$120.221.451;Santo Domingo;Region de Valparaiso;Las Condes;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
+6;JUNIO;09-06-2021;3342060;RICARDO ALBERTO BENAVENTE CREST√Å;Leonor Gonzalez;Infinity;Arbolito;Llave en mano;83;$49.517.511;Santo Domingo;Region de Valparaiso;Las Condes;Primera Vivienda;Empresarios;Barrio Alto;Mediterranea;;
 6;JUNIO;07-06-2021;3342053;INVERSIONES TRANQUILEIN JOHN WAYNE SPA;Yennifer Gonzalez;Proyectos Especiales;Arbolito+;Llave en mano;146;$121.325.911;Tunquen;Region de Valparaiso;Las Condes;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
-6;JUNIO;11-06-2021;3342066;SUSANA GOMEZ VALDES;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;105;$60.029.100;Santo Domingo;Region de Valparaiso;San Antonio;Veraneo;Empresarios;Quinta RegiÛn;Mediterranea;;
+6;JUNIO;11-06-2021;3342066;SUSANA GOMEZ VALDES;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;105;$60.029.100;Santo Domingo;Region de Valparaiso;San Antonio;Veraneo;Empresarios;Quinta Regi√≥n;Mediterranea;;
 6;JUNIO;15-06-2021;3342071;JUAN ANTONIO GALLARDO NAVARRETE;Emmanuel Umbria;Infinity;Arbolito;Llave en mano;90;$65.871.279;Pucon ;Region de la Araucania;Providencia;Veraneo;Gerente;Barrio Alto;Mediterranea;;
-6;JUNIO;14-06-2021;3342070;MARIA ELENA SORIANO CASTRO;Yohana Manquel;DVC;Arbolito;Llave en mano;117;$66.928.395;Pucon ;Region de la Araucania;Lampa;Veraneo + Vivienda Definitiva;PYME;Santiago;Cl·sica;;
-6;JUNIO;14-06-2021;3342068;VERONICA DEL CARMEN VERDUGO AVILA;Leonor Gonzalez;DVC;Arbolito;Llave en mano;95;$54.330.365;Loncoche;Region de la Araucania;Santiago;Veraneo;Empleados;Santiago;Cl·sica;;
+6;JUNIO;14-06-2021;3342070;MARIA ELENA SORIANO CASTRO;Yohana Manquel;DVC;Arbolito;Llave en mano;117;$66.928.395;Pucon ;Region de la Araucania;Lampa;Veraneo + Vivienda Definitiva;PYME;Santiago;Cl√°sica;;
+6;JUNIO;14-06-2021;3342068;VERONICA DEL CARMEN VERDUGO AVILA;Leonor Gonzalez;DVC;Arbolito;Llave en mano;95;$54.330.365;Loncoche;Region de la Araucania;Santiago;Veraneo;Empleados;Santiago;Cl√°sica;;
 6;JUNIO;15-06-2021;3342073;DANIELA BELTRAN ;Emmanuel Umbria;Futura;Arbolito;Full construido;80;$34.584.807;Los Andes;Region de Valparaiso;Los Andes;Vivienda Definitiva;Empresarios;los Andes;Mediterranea;;
-6;JUNIO;10-06-2021;3342062;NICOLE PRENAFETA;MarÌa JosÈ Cid;DVC;Arbolito;Full construido;128;$50.327.441;Pucon ;Region de la Araucania;Pucon;Vivienda Definitiva;Profesional Independiente;Villarrica;Cl·sica;;
+6;JUNIO;10-06-2021;3342062;NICOLE PRENAFETA;Mar√≠a Jos√© Cid;DVC;Arbolito;Full construido;128;$50.327.441;Pucon ;Region de la Araucania;Pucon;Vivienda Definitiva;Profesional Independiente;Villarrica;Cl√°sica;;
 7;JULIO;09-07-2021;3;VICENTE ALFONSO INFANTE;Leonor Gonzalez;Futura;Arbolito;Llave en mano;80;$51.532.032;Champa;Region Metropolitana;Buin;Veraneo;Gerente;Santiago;Mediterranea;;
 7;JULIO;15-07-2021;11;ERNESTO SEGUNDO CATALAN RIVERA;Yohana Manquel;Loft;Arbolito;Obra gruesa;38;$7.006.498;Valdivia;Region de los Rios;Valdivia;Veraneo;Profesional Independiente;Valdivia;Mediterranea;;
-7;JULIO;22-07-2021;13;MARIA TRINIDAD DE LA MAZA;Yennifer Gonzalez;Loft;Arbolito;Llave en mano;38;$24.644.213;Malalcahuello;Region de la Araucania;ViÒa;Veraneo;Profesional Independiente;Quinta RegiÛn;Mediterranea;;
+7;JULIO;22-07-2021;13;MARIA TRINIDAD DE LA MAZA;Yennifer Gonzalez;Loft;Arbolito;Llave en mano;38;$24.644.213;Malalcahuello;Region de la Araucania;Vi√±a;Veraneo;Profesional Independiente;Quinta Regi√≥n;Mediterranea;;
 7;JULIO;29-07-2021;16;JUAN LUIS ARIAS;Susana Bello;Infinity;Arbolito+;Llave en mano;88;$71.148.622;Requinoa;Region de Ohiggins;Providencia;Veraneo + Vivienda Definitiva;PYME;Barrio Alto;Mediterranea;;
 7;JULIO;29-07-2021;19;HERNAN NIEVAS LA SERENA ULTIMA A VIEJA MODALIDAD - JE;Hernan Nievas;Futura;Arbolito;Full;105;$27.240.331;La Serena;Region de Coquimbo;La Serena;;Empresarios;La Serena;Mediterranea;;
-8;AGOSTO;07-08-2021;20;JOSE HUGO ABRAHAN POZO;Hernan Nievas;DVC;Arbolito;Full;87;$25.763.387;La Serena;Region de Coquimbo;La Serena;;Jubilado-Ahorros;La Serena;Cl·sica;;
-8;AGOSTO;19-08-2021;24;PAULA MACARENA CRUZ AUGER;Yohana Manquel;DVC;Arbolito;Llave en mano;113;$75.507.642;Villarrica;Region de la Araucania;Santiago;Vivienda Definitiva;PYME;Santiago;Cl·sica;;
+8;AGOSTO;07-08-2021;20;JOSE HUGO ABRAHAN POZO;Hernan Nievas;DVC;Arbolito;Full;87;$25.763.387;La Serena;Region de Coquimbo;La Serena;;Jubilado-Ahorros;La Serena;Cl√°sica;;
+8;AGOSTO;19-08-2021;24;PAULA MACARENA CRUZ AUGER;Yohana Manquel;DVC;Arbolito;Llave en mano;113;$75.507.642;Villarrica;Region de la Araucania;Santiago;Vivienda Definitiva;PYME;Santiago;Cl√°sica;;
 8;AGOSTO;30-08-2021;26;ANDREA GARCIA;Emmanuel Umbria;Futura;Arbolito;Full construido;95;$42.159.325;San Fernando;Region de Ohiggins;Providencia;Vivienda Definitiva;Gerente;Barrio Alto;Mediterranea;;
-9;SEPTIEMBRE;06-09-2021;28;CHRISTIAN DULANSKY ;MarÌa JosÈ Cid;Proyectos Especiales;Arbolito;Full construido;107;$55.908.286;Licanray;Region de la Araucania;Temuco;Veraneo;Profesional Independiente;Temuco;Mediterranea;;
-9;SEPTIEMBRE;06-09-2021;30;MIGUEL ESTEBAN GUZMAN;Yennifer Gonzalez;DVC;Arbolito;Llave en mano;91;$59.844.032;Pucon ;Region de la Araucania;—uÒoa;Veraneo ;Empresarios;Santiago;Cl·sica;;
-9;SEPTIEMBRE;11-09-2021;34;JOSE LUIS JIMENEZ;Susana Bello;DVC;Arbolito;Full construido;77;$33.233.833;CuracavÌ;Region Metropolitana;Independencia;Vivienda Definitiva;Supervisor;CuracavÌ;Cl·sica;;
-9;SEPTIEMBRE;21-09-2021;39;RUTH PATRICIA MARTINEZ LAGUNAS;Yennifer Gonzalez;DVC;Arbolito;Full construido;132;$56.909.121;CajÛn del Maipo;Region Metropolitana;La Serena;Veraneo + Vivienda Definitiva;Mineria ;La Serena;Cl·sica;;
-9;SEPTIEMBRE;27-09-2021;44;FRANCISCO JAVIER ESCUDERO;Susana Bello;Infinity;Arbolito+;Llave en mano;115;$92.044.338;Villarrica;Region de la Araucania;—uÒoa;Vivienda Definitiva;PYME;Santiago;Mediterranea;;
+9;SEPTIEMBRE;06-09-2021;28;CHRISTIAN DULANSKY ;Mar√≠a Jos√© Cid;Proyectos Especiales;Arbolito;Full construido;107;$55.908.286;Licanray;Region de la Araucania;Temuco;Veraneo;Profesional Independiente;Temuco;Mediterranea;;
+9;SEPTIEMBRE;06-09-2021;30;MIGUEL ESTEBAN GUZMAN;Yennifer Gonzalez;DVC;Arbolito;Llave en mano;91;$59.844.032;Pucon ;Region de la Araucania;√ëu√±oa;Veraneo ;Empresarios;Santiago;Cl√°sica;;
+9;SEPTIEMBRE;11-09-2021;34;JOSE LUIS JIMENEZ;Susana Bello;DVC;Arbolito;Full construido;77;$33.233.833;Curacav√≠;Region Metropolitana;Independencia;Vivienda Definitiva;Supervisor;Curacav√≠;Cl√°sica;;
+9;SEPTIEMBRE;21-09-2021;39;RUTH PATRICIA MARTINEZ LAGUNAS;Yennifer Gonzalez;DVC;Arbolito;Full construido;132;$56.909.121;Caj√≥n del Maipo;Region Metropolitana;La Serena;Veraneo + Vivienda Definitiva;Mineria ;La Serena;Cl√°sica;;
+9;SEPTIEMBRE;27-09-2021;44;FRANCISCO JAVIER ESCUDERO;Susana Bello;Infinity;Arbolito+;Llave en mano;115;$92.044.338;Villarrica;Region de la Araucania;√ëu√±oa;Vivienda Definitiva;PYME;Santiago;Mediterranea;;
 10;OCTUBRE;06-10-2021;49;AUGUSTO LUTZ;Susana Bello;Futura;Arbolito;Full construido;116;$52.726.838;Colina;Region Metropolitana;Las Condes;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
-10;OCTUBRE;08-10-2021;52;MIRTA PAULINA AHUMADA MULLER;Yennifer Gonzalez;DVC;Arbolito;Llave en mano;91;$76.940.009;Saltos del Huife;Region de la Araucania;CajÛn del Maipo;Veraneo;Empresarios;Santiago;Cl·sica;;
-10;OCTUBRE;18-10-2021;54;AGRICOLA Y FORESTAL FUNDO CASA GRANDE SPA;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;150;$105.488.702;CuricÛ;Region del Maule;Lo Barnechea;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
-10;OCTUBRE;18-10-2021;57;ELIZABETH SUSANA KEHR MELLADO;Yohana Manquel;DVC;Arbolito;Full construido;157;$68.236.831;Loncotraro;Region de la Araucania;Temuco;Vivienda Definitiva;PYME;Temuco;Cl·sica;;
-10;OCTUBRE;26-10-2021;61;JOSE MIGUEL AMESTICA;Barbara EspaÒa;Futura;Arbolito;Llave en mano;129;$100.272.195;Colina;Region Metropolitana;Colina;Vivienda Definitiva;Gerente;Barrio Alto;Mediterranea;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
+10;OCTUBRE;08-10-2021;52;MIRTA PAULINA AHUMADA MULLER;Yennifer Gonzalez;DVC;Arbolito;Llave en mano;91;$76.940.009;Saltos del Huife;Region de la Araucania;Caj√≥n del Maipo;Veraneo;Empresarios;Santiago;Cl√°sica;;
+10;OCTUBRE;18-10-2021;54;AGRICOLA Y FORESTAL FUNDO CASA GRANDE SPA;Yennifer Gonzalez;Futura;Arbolito;Llave en mano;150;$105.488.702;Curic√≥;Region del Maule;Lo Barnechea;Veraneo;Empresarios;Barrio Alto;Mediterranea;;
+10;OCTUBRE;18-10-2021;57;ELIZABETH SUSANA KEHR MELLADO;Yohana Manquel;DVC;Arbolito;Full construido;157;$68.236.831;Loncotraro;Region de la Araucania;Temuco;Vivienda Definitiva;PYME;Temuco;Cl√°sica;;
+10;OCTUBRE;26-10-2021;61;JOSE MIGUEL AMESTICA;Barbara Espa√±a;Futura;Arbolito;Llave en mano;129;$100.272.195;Colina;Region Metropolitana;Colina;Vivienda Definitiva;Gerente;Barrio Alto;Mediterranea;;
